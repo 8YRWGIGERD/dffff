@@ -17,4 +17,4 @@ client.prefix = config.prefix;
 });
  
 
-client.login(token);
+client.login('ODk3ODc0NTc0Mjc5MDY5NzY3.YWcA3A.tn_IxBqxvMTLEz_vRUknUu94eD0');
